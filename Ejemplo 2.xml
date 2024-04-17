@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href=="file:/C:/Users/cuino/onedrive/pedroernesto-personal/Documentos/Practica5_A201067/Ejemplo2.xsl"?>
+<carros>
+<carro>
+<nombre>Tracker Premier</nombre>
+<Marca>Chevrolet</Marca>
+</carro>
+<carro>
+<nombre>Territory</nombre>
+<Marca>ford</Marca>
+</carro>
+<carro>
+<nombre>X-trail</nombre>
+<Marca>Nissan</Marca>
+</carro>
+</carros>

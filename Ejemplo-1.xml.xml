@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ciudades>
+<ciudad>
+<nombre>Tuxtla Gutierrez</nombre>
+<Habitantes>500000</Habitantes>
+</ciudad>
+<ciudad>
+<nombre>Chiapa de corzo</nombre>
+<Habitantes>150000</Habitantes>
+</ciudad>
+<ciudad>
+<nombre>Sancristobal de las casas</nombre>
+<Habitantes>235000</Habitantes>
+</ciudad>
+</ciudades>
